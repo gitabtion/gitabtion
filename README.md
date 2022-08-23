@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on YonYou
+- 🔭 I’m currently working on CarbonSilicon.ai
 - 🌱 I’m currently learning DeepLearning.
 - 👯 I’m looking to collaborate on BertBaseCorrection.
 - 🤔 I’m looking for help with ...
